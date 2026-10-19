@@ -110,6 +110,10 @@ Amounts come from `int(Transfer.data,16) / 10**18`; the token's `decimals()` rea
 4. In payout receipts, select logs emitted by `0x90c8889f428f9ebb77bb8f15cad3a50a9ac680df` whose topic 0 is `0xddf252ad1be2c89b69c2b068fc378daa952ba7f163c4a11628f55a4df523b3ef` (`Transfer(address,address,uint256)`). Topic 1's last 20 bytes give the sender, topic 2's last 20 bytes the recipient, and `data` is the raw integer amount.
 5. Compare decoded sender to the block-pinned `getAgentWallet` result. Every row above matches. No signature, wallet connection or transaction is required for these reads.
 
+## RPC availability and verification limits
+
+The three block-pinned reads above were successfully captured during this audit. A later replay against the same public full node returned `missing trie node`: it prunes historical state. Re-querying the exact pinned state therefore requires an archive-capable BSC node; do not silently substitute `latest`. Transaction receipts and block headers were separately retrieved and decoded. The accompanying `verify.py --offline` checks the captured evidence without network access. Its default live mode re-queries the chain and may require setting `RPC` to an archive provider. The token decimals check was separately observed as 18 using a current-state `decimals()` call, not the older registry snapshot.
+
 ## Sources and provenance
 
 - Task brief: https://taskmarket.dev/tasks/0x1163890296673d6f0cbd2f63eccd2f3ac3f96fcf0864768509ca46feae609104
