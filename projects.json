@@ -1,0 +1,371 @@
+[
+  {
+    "name": "Apphider",
+    "description": null,
+    "language": null,
+    "fork": false,
+    "empty": true,
+    "url": "https://github.com/cchughiefe-art/Apphider",
+    "updated": "2026-03-05T18:29:37Z"
+  },
+  {
+    "name": "Auto",
+    "description": null,
+    "language": "Python",
+    "fork": false,
+    "empty": false,
+    "url": "https://github.com/cchughiefe-art/Auto",
+    "updated": "2026-07-26T15:20:04Z"
+  },
+  {
+    "name": "Bot",
+    "description": null,
+    "language": null,
+    "fork": false,
+    "empty": false,
+    "url": "https://github.com/cchughiefe-art/Bot",
+    "updated": "2026-07-06T20:22:32Z"
+  },
+  {
+    "name": "bright-accessories",
+    "description": "Online store for bright accessories ",
+    "language": "JavaScript",
+    "fork": false,
+    "empty": false,
+    "url": "https://github.com/cchughiefe-art/bright-accessories",
+    "updated": "2026-10-08T19:21:05Z"
+  },
+  {
+    "name": "cchughiefe-art",
+    "description": null,
+    "language": "Python",
+    "fork": false,
+    "empty": false,
+    "url": "https://github.com/cchughiefe-art/cchughiefe-art",
+    "updated": "2026-03-31T20:24:28Z"
+  },
+  {
+    "name": "client-blog",
+    "description": null,
+    "language": "CSS",
+    "fork": false,
+    "empty": false,
+    "url": "https://github.com/cchughiefe-art/client-blog",
+    "updated": "2026-05-22T11:44:43Z"
+  },
+  {
+    "name": "curvepilot-demo",
+    "description": null,
+    "language": "JavaScript",
+    "fork": false,
+    "empty": false,
+    "url": "https://github.com/cchughiefe-art/curvepilot-demo",
+    "updated": "2026-09-11T09:52:07Z"
+  },
+  {
+    "name": "God-s-Zeal-Xmd",
+    "description": null,
+    "language": null,
+    "fork": true,
+    "empty": false,
+    "url": "https://github.com/cchughiefe-art/God-s-Zeal-Xmd",
+    "updated": "2026-04-08T21:28:59Z"
+  },
+  {
+    "name": "Hackerai",
+    "description": null,
+    "language": "Python",
+    "fork": false,
+    "empty": false,
+    "url": "https://github.com/cchughiefe-art/Hackerai",
+    "updated": "2026-04-08T08:13:11Z"
+  },
+  {
+    "name": "hackerai1",
+    "description": "AI-Powered Penetration Testing Assistant",
+    "language": null,
+    "fork": true,
+    "empty": false,
+    "url": "https://github.com/cchughiefe-art/hackerai1",
+    "updated": "2026-04-07T20:53:50Z"
+  },
+  {
+    "name": "js.org",
+    "description": "Dedicated to JavaScript and its awesome community since 2015 ",
+    "language": null,
+    "fork": true,
+    "empty": false,
+    "url": "https://github.com/cchughiefe-art/js.org",
+    "updated": "2026-05-22T11:48:38Z"
+  },
+  {
+    "name": "jumia-monitor-shop1",
+    "description": null,
+    "language": "Python",
+    "fork": false,
+    "empty": false,
+    "url": "https://github.com/cchughiefe-art/jumia-monitor-shop1",
+    "updated": "2026-10-13T13:16:31Z"
+  },
+  {
+    "name": "Mekfidel",
+    "description": null,
+    "language": "TypeScript",
+    "fork": false,
+    "empty": false,
+    "url": "https://github.com/cchughiefe-art/Mekfidel",
+    "updated": "2026-10-20T09:03:08Z"
+  },
+  {
+    "name": "mekfidel-communication",
+    "description": null,
+    "language": "TypeScript",
+    "fork": false,
+    "empty": false,
+    "url": "https://github.com/cchughiefe-art/mekfidel-communication",
+    "updated": "2026-07-24T12:55:45Z"
+  },
+  {
+    "name": "memecoin-bot",
+    "description": null,
+    "language": "Python",
+    "fork": false,
+    "empty": false,
+    "url": "https://github.com/cchughiefe-art/memecoin-bot",
+    "updated": "2026-09-07T03:46:24Z"
+  },
+  {
+    "name": "Memepulse",
+    "description": null,
+    "language": "JavaScript",
+    "fork": false,
+    "empty": false,
+    "url": "https://github.com/cchughiefe-art/Memepulse",
+    "updated": "2026-10-01T15:10:01Z"
+  },
+  {
+    "name": "moviebox-internal-api",
+    "description": "MovieBox Pro app Protocol & Architecture Analysis — reverse engineering research documenting API structure, authentication flow, streaming delivery, and regional content systems discovered via APK decompilation and traffic analysis.",
+    "language": null,
+    "fork": true,
+    "empty": false,
+    "url": "https://github.com/cchughiefe-art/moviebox-internal-api",
+    "updated": "2026-08-08T15:18:43Z"
+  },
+  {
+    "name": "nkiri-bot",
+    "description": null,
+    "language": "JavaScript",
+    "fork": false,
+    "empty": false,
+    "url": "https://github.com/cchughiefe-art/nkiri-bot",
+    "updated": "2026-09-25T15:49:37Z"
+  },
+  {
+    "name": "Novel",
+    "description": null,
+    "language": null,
+    "fork": false,
+    "empty": true,
+    "url": "https://github.com/cchughiefe-art/Novel",
+    "updated": "2026-07-30T08:51:09Z"
+  },
+  {
+    "name": "novel-nexus",
+    "description": null,
+    "language": "Kotlin",
+    "fork": false,
+    "empty": false,
+    "url": "https://github.com/cchughiefe-art/novel-nexus",
+    "updated": "2026-09-30T11:10:30Z"
+  },
+  {
+    "name": "Ona",
+    "description": null,
+    "language": null,
+    "fork": false,
+    "empty": true,
+    "url": "https://github.com/cchughiefe-art/Ona",
+    "updated": "2026-04-19T16:36:45Z"
+  },
+  {
+    "name": "papertrade",
+    "description": null,
+    "language": "JavaScript",
+    "fork": false,
+    "empty": false,
+    "url": "https://github.com/cchughiefe-art/papertrade",
+    "updated": "2026-09-28T09:18:13Z"
+  },
+  {
+    "name": "pharos-pipeline",
+    "description": null,
+    "language": "HTML",
+    "fork": false,
+    "empty": false,
+    "url": "https://github.com/cchughiefe-art/pharos-pipeline",
+    "updated": "2026-05-03T22:28:23Z"
+  },
+  {
+    "name": "privacy-audit",
+    "description": null,
+    "language": "JavaScript",
+    "fork": false,
+    "empty": false,
+    "url": "https://github.com/cchughiefe-art/privacy-audit",
+    "updated": "2026-04-03T07:39:29Z"
+  },
+  {
+    "name": "pump-paper-sim",
+    "description": null,
+    "language": "HTML",
+    "fork": false,
+    "empty": false,
+    "url": "https://github.com/cchughiefe-art/pump-paper-sim",
+    "updated": "2026-09-07T04:38:29Z"
+  },
+  {
+    "name": "royal-relief-portal",
+    "description": null,
+    "language": "HTML",
+    "fork": false,
+    "empty": false,
+    "url": "https://github.com/cchughiefe-art/royal-relief-portal",
+    "updated": "2026-04-02T18:37:23Z"
+  },
+  {
+    "name": "Shop",
+    "description": null,
+    "language": "Python",
+    "fork": false,
+    "empty": false,
+    "url": "https://github.com/cchughiefe-art/Shop",
+    "updated": "2026-04-15T17:12:02Z"
+  },
+  {
+    "name": "solana-sentinel-node",
+    "description": "A mobile-optimized Python suite for monitoring Solana Mainnet health and transaction flow via QuickNode RPC.",
+    "language": "Python",
+    "fork": false,
+    "empty": false,
+    "url": "https://github.com/cchughiefe-art/solana-sentinel-node",
+    "updated": "2026-04-03T13:55:08Z"
+  },
+  {
+    "name": "solana-sniper",
+    "description": null,
+    "language": null,
+    "fork": false,
+    "empty": true,
+    "url": "https://github.com/cchughiefe-art/solana-sniper",
+    "updated": "2026-04-03T13:48:33Z"
+  },
+  {
+    "name": "stackblitz-webcontainer-api-starter-cjgufuwq",
+    "description": "Created with StackBlitz ⚡️",
+    "language": "JavaScript",
+    "fork": false,
+    "empty": false,
+    "url": "https://github.com/cchughiefe-art/stackblitz-webcontainer-api-starter-cjgufuwq",
+    "updated": "2026-04-19T17:32:27Z"
+  },
+  {
+    "name": "stealth-humanizer",
+    "description": null,
+    "language": "HTML",
+    "fork": false,
+    "empty": false,
+    "url": "https://github.com/cchughiefe-art/stealth-humanizer",
+    "updated": "2026-04-19T12:53:53Z"
+  },
+  {
+    "name": "syntech",
+    "description": null,
+    "language": "Python",
+    "fork": false,
+    "empty": false,
+    "url": "https://github.com/cchughiefe-art/syntech",
+    "updated": "2026-07-26T13:41:19Z"
+  },
+  {
+    "name": "thenkiri-site",
+    "description": null,
+    "language": "TypeScript",
+    "fork": false,
+    "empty": false,
+    "url": "https://github.com/cchughiefe-art/thenkiri-site",
+    "updated": "2026-09-18T18:40:09Z"
+  },
+  {
+    "name": "trading-pro",
+    "description": null,
+    "language": "JavaScript",
+    "fork": false,
+    "empty": false,
+    "url": "https://github.com/cchughiefe-art/trading-pro",
+    "updated": "2026-04-04T15:08:24Z"
+  },
+  {
+    "name": "void-bot",
+    "description": "Trading app generated by Deriv App Builder",
+    "language": "TypeScript",
+    "fork": false,
+    "empty": false,
+    "url": "https://github.com/cchughiefe-art/void-bot",
+    "updated": "2026-07-12T05:57:36Z"
+  },
+  {
+    "name": "Void-Launcher",
+    "description": null,
+    "language": "Java",
+    "fork": false,
+    "empty": false,
+    "url": "https://github.com/cchughiefe-art/Void-Launcher",
+    "updated": "2026-09-29T14:22:46Z"
+  },
+  {
+    "name": "Void-Launcher-Core",
+    "description": "No clever tagline needed.",
+    "language": null,
+    "fork": true,
+    "empty": false,
+    "url": "https://github.com/cchughiefe-art/Void-Launcher-Core",
+    "updated": "2026-09-25T22:33:39Z"
+  },
+  {
+    "name": "Void-md-bot",
+    "description": null,
+    "language": null,
+    "fork": false,
+    "empty": true,
+    "url": "https://github.com/cchughiefe-art/Void-md-bot",
+    "updated": "2026-08-09T14:50:08Z"
+  },
+  {
+    "name": "void-xmd",
+    "description": null,
+    "language": "JavaScript",
+    "fork": false,
+    "empty": false,
+    "url": "https://github.com/cchughiefe-art/void-xmd",
+    "updated": "2026-10-14T12:59:20Z"
+  },
+  {
+    "name": "voidtech-blog",
+    "description": null,
+    "language": null,
+    "fork": false,
+    "empty": false,
+    "url": "https://github.com/cchughiefe-art/voidtech-blog",
+    "updated": "2026-10-20T14:52:41Z"
+  },
+  {
+    "name": "vtu-whatsapp-bot",
+    "description": null,
+    "language": "JavaScript",
+    "fork": false,
+    "empty": false,
+    "url": "https://github.com/cchughiefe-art/vtu-whatsapp-bot",
+    "updated": "2026-03-29T12:58:13Z"
+  }
+]
