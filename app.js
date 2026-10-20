@@ -1,4 +1,5 @@
 const list=document.querySelector('#project-list');
+document.querySelectorAll('.preview-image img').forEach(img=>img.addEventListener('error',()=>{img.hidden=true;img.nextElementSibling.hidden=false}));
 const search=document.querySelector('#search');
 const buttons=[...document.querySelectorAll('[data-filter]')];
 let projects=[],filter='all';
