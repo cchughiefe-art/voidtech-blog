@@ -1,0 +1,30 @@
+{
+  "@context": "https://mailschema.org/contexts/map-0.3.jsonld",
+  "@type": "MailAction",
+  "profile": "https://mailschema.org/profiles/map/0.3",
+  "type": {
+    "id": "https://mailschema.org/types/email-address-confirmation",
+    "version": "0.1",
+    "contractDigest": "sha-256:fc9d8a4fb3f3065f93bd53d1f9238b13df63186588d3f3f44982d5813412e282"
+  },
+  "@id": "urn:void:map-lab:20261020:reader-confirmation:001",
+  "issuedAt": "2026-10-20T14:55:00Z",
+  "expiresAt": "2026-10-20T15:25:00Z",
+  "inLanguage": "en",
+  "service": {"id": "https://voidtech.my.id", "tenant": "urn:void:lab:reader-updates"},
+  "recipient": "reader@void-map-lab.example",
+  "subject": {
+    "id": "urn:void:lab:communication-request:weekly-repair-notes-001",
+    "title": "Confirm the mailbox requested for VOID repair notes"
+  },
+  "terms": {"id": "urn:void:lab:confirmation:weekly-repair-notes-001", "version": "repair-notes-request-r1"},
+  "human": {"url": "https://voidtech.my.id/map-lab/confirm/weekly-repair-notes-001"},
+  "details": {
+    "mailbox": "reader@void-map-lab.example",
+    "requestId": "urn:void:lab:communication-request:weekly-repair-notes-001",
+    "requestedAt": "2026-10-20T14:54:00Z",
+    "purpose": "communication-address",
+    "serviceName": "VOID repair-notes prototype (offline validation fixture)"
+  },
+  "operations": [{"id": "confirm"}]
+}
